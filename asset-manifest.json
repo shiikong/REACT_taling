@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/taling_REACT_hw0201/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/taling_REACT_hw0201/static/js/main.1c405965.chunk.js",
+    "main.js.map": "/taling_REACT_hw0201/static/js/main.1c405965.chunk.js.map",
+    "runtime-main.js": "/taling_REACT_hw0201/static/js/runtime-main.bd43dace.js",
+    "runtime-main.js.map": "/taling_REACT_hw0201/static/js/runtime-main.bd43dace.js.map",
+    "static/js/2.7413b005.chunk.js": "/taling_REACT_hw0201/static/js/2.7413b005.chunk.js",
+    "static/js/2.7413b005.chunk.js.map": "/taling_REACT_hw0201/static/js/2.7413b005.chunk.js.map",
+    "index.html": "/taling_REACT_hw0201/index.html",
+    "precache-manifest.ae54e9689999d270bc662381197096ab.js": "/taling_REACT_hw0201/precache-manifest.ae54e9689999d270bc662381197096ab.js",
+    "service-worker.js": "/taling_REACT_hw0201/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/taling_REACT_hw0201/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.7413b005.chunk.js.LICENSE.txt": "/taling_REACT_hw0201/static/js/2.7413b005.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd43dace.js",
+    "static/js/2.7413b005.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1c405965.chunk.js"
+  ]
+}
